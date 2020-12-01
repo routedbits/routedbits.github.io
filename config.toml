@@ -1,6 +1,7 @@
 baseURL = "https://dn42.routedbits.com/"
 languageCode = "en-us"
 title = "RoutedBits"
+publishDir = "docs"
 # enableRobotsTXT = true
 
 theme = "compose"

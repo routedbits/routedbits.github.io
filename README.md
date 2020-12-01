@@ -1,4 +1,4 @@
 # RoutedBits DN42 Documentation
 
-This repository contains the documentation for the [RoutedBits
-DN42 information site](https://dn42.routedbits.com)
+This repository contains the hugo site for the [RoutedBits
+DN42 information page](https://dn42.routedbits.com)
