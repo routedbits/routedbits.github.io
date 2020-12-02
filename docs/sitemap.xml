@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dn42.routedbits.com/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dn42.routedbits.com/docs/peering/</loc>
+  </url>
+  
+  <url>
     <loc>https://dn42.routedbits.com/</loc>
     <lastmod>2020-12-01T15:34:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dn42.routedbits.com/search/</loc>
   </url>
   
 </urlset>

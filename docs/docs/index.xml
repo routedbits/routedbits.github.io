@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RoutedBits</title>
-    <link>https://dn42.routedbits.com/</link>
+    <link>https://dn42.routedbits.com/docs/</link>
     <description>Recent content on RoutedBits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 15:25:57 -0600</lastBuildDate><atom:link href="https://dn42.routedbits.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dn42.routedbits.com/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peering Information</title>
       <link>https://dn42.routedbits.com/docs/peering/</link>
@@ -16,15 +15,6 @@
       <description>Peering Requests Please email dn42@onvox.net if you would like to peer with us.
 Please include the following information:
  Desired peering location (please test latency and select the closest location) Public Wireguard key, tunnel endpoint address and port (hostname recommended) Private (or DN42) tunnel address (IPv4 and IPv6 if desired) Desired BGP peering address and address-familes (IPv4, IPv6, or both)  Locations    Location Hostname Tunnel Options     Dallas, TX us-dal1.</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://dn42.routedbits.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dn42.routedbits.com/search/</guid>
-      <description></description>
     </item>
     
   </channel>
